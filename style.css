@@ -100,11 +100,11 @@ button:hover {
   font-size: 18px;
 }
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(109, 104, 104);
   color: black;
 }
 
 .topnav a.active {
-  background-color: cadetblue;
+  background-color: rgb(236, 228, 104);
   color: black;
 }
